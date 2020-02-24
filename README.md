@@ -1,2 +1,3 @@
 # Kinodynamic-Fast_RRT-ROS
-Find the screenshots of implementation in rviz.
+
+![github-small](https://github.com/addy1997/Kinodynamic-Fast_RRT-ROS/blob/master/rrt.mov)
