@@ -1,5 +1,6 @@
-//
-//
+Created on Feb'25th 2020
+
+The code was partly adapted from https://ompl.kavrakilab.org/classompl_1_1geometric_1_1RRT.html
 
 #include "ros/ros.h"
 #include "std_msgs/String.h"
