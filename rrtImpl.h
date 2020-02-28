@@ -1,4 +1,5 @@
 //
+The code was partly adapted from https://ompl.kavrakilab.org/classompl_1_1geometric_1_1RRT.html
 
 //
 
