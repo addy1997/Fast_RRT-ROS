@@ -7,7 +7,7 @@
 
 ![RRT](https://github.com/addy1997/Kinodynamic-Fast_RRT-ROS/blob/master/screenshots/Screenshot%202020-02-22%20at%203.36.34%20PM.png)
 
-![RRT](https://github.com/addy1997/Kinodynamic-Fast_RRT-ROS/blob/master/screenshots/Screenshot%202020-02-22%20at%203.36.40%20PM.png| width=200)
+![RRT](https://github.com/addy1997/Kinodynamic-Fast_RRT-ROS/blob/master/screenshots/Screenshot%202020-02-22%20at%203.36.40%20PM.png =250px)
 
 ![RRT](https://github.com/addy1997/Kinodynamic-Fast_RRT-ROS/blob/master/screenshots/Screenshot%202020-02-22%20at%203.36.48%20PM.png)
 
