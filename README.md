@@ -1,5 +1,10 @@
 ### RRT implementation in Rviz
 
+[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)
+[![Safety](https://img.shields.io/badge/safety-secure-brightgreen.svg)](https://app.gitguardian.com)
+[![Stars](https://img.shields.io/github/stars/addy1997/Kinodynamic-Fast_RRT-ROS.svg?style=flat&label=Star&maxAge=86400)]
+
+
 <ul> 
   
 <li>In this project, we implemented RRT with holonomic constraints in 3D environment using Rviz. </li>
