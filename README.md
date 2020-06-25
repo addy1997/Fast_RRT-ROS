@@ -18,5 +18,7 @@
 
 ### Documentation
 
-[Link](file:///Users/adwaitnaik/Desktop/Kinodynamic-Fast_RRT-ROS/docs/build/html/index.html)
+after cloning the repository into your system.
+Go into the docs->build->html->index.html
+
 
