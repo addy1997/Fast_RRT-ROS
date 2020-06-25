@@ -16,3 +16,7 @@
 
 <li> <a href = "https://www.youtube.com/watch?v=y9wn1XM037M"> RRT in action </a> </li>
 
+### Documentation
+
+[Link](file:///Users/adwaitnaik/Desktop/Kinodynamic-Fast_RRT-ROS/docs/build/html/index.html)
+
