@@ -31,12 +31,15 @@ In our case, the robot employed to test the algorithm was UR5 robotic arm.
 .. figure:: algorithm.png
    :align: center
    
-   Basic RRT algorithm
+   
+   
+   **Basic RRT algorithm**
+   
 
 Results
 -------
 
-We deployed the algorithm in rviz visualiser with the help of ROS. The following observations were made:
+We deployed the algorithm in **rviz** visualiser with the help of ROS. The following observations were made:
 
 .. figure:: shot1.jpg
    :align: center
