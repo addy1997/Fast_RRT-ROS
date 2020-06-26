@@ -24,6 +24,14 @@ In this project, we have addressed the issue of high space complexity and disscu
 
 Algorithm 
 ---------
+In path planning, Kinodynamic planning is used to solve tasks that largely depend on the velocity, acceleartion, and torque to be satisfied along with the kinemaic constraints like obstacle avoidance. The concept is based on reducing the time taken by the robot to trace an optimal, collision-free path from the home position to the goal. Kinodynamic planning is primarily used to solve control problems in robotics. 
+
+In our case, the robot employed to test the algorithm was UR5 robotic arm. 
+
+.. figure:: algorithm.jpg
+   :align: center
+   
+   Basic RRT algorithm
 
 Results
 -------
