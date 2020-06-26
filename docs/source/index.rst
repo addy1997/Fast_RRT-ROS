@@ -6,7 +6,7 @@
 .. toctree::
    :maxdepth: 2
    :caption: Contents
-   :hidden:
+   
 
 Overview
 --------
@@ -44,35 +44,35 @@ We deployed the algorithm in **rviz** visualiser with the help of ROS. The follo
 .. figure:: shot1.jpg
    :align: center
 
-   Algorithm in stage 1.
+   **Algorithm in stage 1.**
 
 .. figure:: shot2.jpg
    :align: center
 
-   Algorithm in stage 2.
+   **Algorithm in stage 2.**
 
    
 .. figure:: shot3.jpg
    :align: center
 
-   Algorithm in stage 3.
+   **Algorithm in stage 3.**
 
 
 .. figure:: shot4.jpg
    :align: center
 
-   Algorithm in stage 4.
+   **Algorithm in stage 4.**
 
 
 .. figure:: shot5.jpg
    :align: center
 
-   Algorithm in stage 5.
+   **Algorithm in stage 5.**
 
 
 .. figure:: shot6.jpg
    :align: center
 
-   Algorithm in stage 6.
+   **Algorithm in stage 6.**
 
 

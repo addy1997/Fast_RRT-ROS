@@ -46,33 +46,39 @@
 </div>
 <div class="section" id="algorithm">
 <h2>Algorithm<a class="headerlink" href="#algorithm" title="Permalink to this headline">¶</a></h2>
+<p>In path planning, Kinodynamic planning is used to solve tasks that largely depend on the velocity, acceleartion, and torque to be satisfied along with the kinemaic constraints like obstacle avoidance. The concept is based on reducing the time taken by the robot to trace an optimal, collision-free path from the home position to the goal. Kinodynamic planning is primarily used to solve control problems in robotics.</p>
+<p>In our case, the robot employed to test the algorithm was UR5 robotic arm.</p>
+<div class="figure align-center" id="id1">
+<img alt="_images/algorithm.png" src="_images/algorithm.png" />
+<p class="caption"><span class="caption-text"><strong>Basic RRT algorithm</strong></span><a class="headerlink" href="#id1" title="Permalink to this image">¶</a></p>
+</div>
 </div>
 <div class="section" id="results">
 <h2>Results<a class="headerlink" href="#results" title="Permalink to this headline">¶</a></h2>
-<p>We deployed the algorithm in rviz visualiser with the help of ROS. The following observations were made:</p>
-<div class="figure align-center" id="id1">
-<img alt="_images/shot1.jpg" src="_images/shot1.jpg" />
-<p class="caption"><span class="caption-text">Algorithm in stage 1.</span><a class="headerlink" href="#id1" title="Permalink to this image">¶</a></p>
-</div>
+<p>We deployed the algorithm in <strong>rviz</strong> visualiser with the help of ROS. The following observations were made:</p>
 <div class="figure align-center" id="id2">
-<img alt="_images/shot2.jpg" src="_images/shot2.jpg" />
-<p class="caption"><span class="caption-text">Algorithm in stage 2.</span><a class="headerlink" href="#id2" title="Permalink to this image">¶</a></p>
+<img alt="_images/shot1.jpg" src="_images/shot1.jpg" />
+<p class="caption"><span class="caption-text"><strong>Algorithm in stage 1.</strong></span><a class="headerlink" href="#id2" title="Permalink to this image">¶</a></p>
 </div>
 <div class="figure align-center" id="id3">
-<img alt="_images/shot3.jpg" src="_images/shot3.jpg" />
-<p class="caption"><span class="caption-text">Algorithm in stage 3.</span><a class="headerlink" href="#id3" title="Permalink to this image">¶</a></p>
+<img alt="_images/shot2.jpg" src="_images/shot2.jpg" />
+<p class="caption"><span class="caption-text"><strong>Algorithm in stage 2.</strong></span><a class="headerlink" href="#id3" title="Permalink to this image">¶</a></p>
 </div>
 <div class="figure align-center" id="id4">
-<img alt="_images/shot4.jpg" src="_images/shot4.jpg" />
-<p class="caption"><span class="caption-text">Algorithm in stage 4.</span><a class="headerlink" href="#id4" title="Permalink to this image">¶</a></p>
+<img alt="_images/shot3.jpg" src="_images/shot3.jpg" />
+<p class="caption"><span class="caption-text"><strong>Algorithm in stage 3.</strong></span><a class="headerlink" href="#id4" title="Permalink to this image">¶</a></p>
 </div>
 <div class="figure align-center" id="id5">
-<img alt="_images/shot5.jpg" src="_images/shot5.jpg" />
-<p class="caption"><span class="caption-text">Algorithm in stage 5.</span><a class="headerlink" href="#id5" title="Permalink to this image">¶</a></p>
+<img alt="_images/shot4.jpg" src="_images/shot4.jpg" />
+<p class="caption"><span class="caption-text"><strong>Algorithm in stage 4.</strong></span><a class="headerlink" href="#id5" title="Permalink to this image">¶</a></p>
 </div>
 <div class="figure align-center" id="id6">
+<img alt="_images/shot5.jpg" src="_images/shot5.jpg" />
+<p class="caption"><span class="caption-text"><strong>Algorithm in stage 5.</strong></span><a class="headerlink" href="#id6" title="Permalink to this image">¶</a></p>
+</div>
+<div class="figure align-center" id="id7">
 <img alt="_images/shot6.jpg" src="_images/shot6.jpg" />
-<p class="caption"><span class="caption-text">Algorithm in stage 6.</span><a class="headerlink" href="#id6" title="Permalink to this image">¶</a></p>
+<p class="caption"><span class="caption-text"><strong>Algorithm in stage 6.</strong></span><a class="headerlink" href="#id7" title="Permalink to this image">¶</a></p>
 </div>
 </div>
 </div>
