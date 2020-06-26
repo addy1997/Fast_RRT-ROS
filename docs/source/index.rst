@@ -28,7 +28,7 @@ In path planning, Kinodynamic planning is used to solve tasks that largely depen
 
 In our case, the robot employed to test the algorithm was UR5 robotic arm. 
 
-.. figure:: algorithm.jpg
+.. figure:: algorithm.png
    :align: center
    
    Basic RRT algorithm
