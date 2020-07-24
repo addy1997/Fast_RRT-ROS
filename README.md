@@ -9,10 +9,12 @@
 <li>RRT is a sampling based motion planning algorithm in which tree sprouts randomly in all the possible directions from a start node given by the user and grows continuously until it reaches the goal node. </li>
 
 </ul>
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Results
 
 <li> <a href = "https://www.youtube.com/watch?v=y9wn1XM037M"> RRT in action </a> </li>
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Documentation
 
